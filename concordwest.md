@@ -12,4 +12,4 @@
 
 | Previous | Line | Next |
 | ---------- | ---------- | ---------- |
-| [Strathfield](strathfield) | [Central Coast & Newcastle Line](ccn)<br><i style="text-align: center;">(Does not stop)</i> | [Eastwood](eastwood) |
+| [Strathfield](strathfield) | [Central Coast & Newcastle Line](ccn)<br>_(Does not stop)_ | [Eastwood](eastwood) |
