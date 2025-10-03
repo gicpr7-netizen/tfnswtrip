@@ -1,6 +1,6 @@
 # South West Rail Link
 
-**SWRL**, or **South West Rail Link**, was a train line which was in Sydney Trains system, and ran between Liverpool and Leppington.
+**SWRL**, or **South West Rail Link**, is a train line which is in Sydney Trains system, and run between Liverpool and Leppington. And opened in 2014.
 
 Now serviced by [T2 Leppington & Inner West Line](t2) and [T5 Cumberland Line](t5).
 
