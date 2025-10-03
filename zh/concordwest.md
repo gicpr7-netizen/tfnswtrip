@@ -12,4 +12,4 @@
 
 | 前一站 | 线路 | 下一站 |
 | ---------- | ---------- | ---------- |
-| [斯特拉斯菲尔德](strathfield) | [中央海岸与纽卡斯尔线](ccn)<br>_（不停）_ | [伊士活](eastwood) |
+| [斯特拉斯菲尔德](strathfield) | [中央海岸与纽卡斯尔线](ccn)<br><i style="text-align: center;">（不停）</i> | [伊士活](eastwood) |
