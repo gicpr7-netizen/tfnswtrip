@@ -13,3 +13,5 @@
 | Previous | Line | Next |
 | ---------- | ---------- | ---------- |
 | [Strathfield](strathfield) | [Central Coast & Newcastle Line](ccn)<br>_(Does not stop)_ | [Eastwood](eastwood) |
+| [Strathfield](strathfield) | [North Coast Region](nrc)<br>_(Does not stop)_ | [Hornsby](hornsby) |
+| [Strathfield](strathfield) | [North Western Region](nrw)<br>_(Does not stop)_ | [Hornsby](hornsby) |
